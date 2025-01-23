@@ -18,7 +18,15 @@ El contenido del libro también está organizado por capítulos para facilitar l
 
 - [Capítulo 1 - Understanding large language models](./chapters/chapter_1.pdf)
 - [Capítulo 2 - Working with text data](./chapters/chapter_2.pdf)
-
+- [Capítulo 3 - Coding attention mechanisms](./chapters/chapter_3.pdf)
+- [Capítulo 4 - mplementing a GPT model from scratch to generate text](./chapters/chapter_4.pdf)
+- [Capítulo 5 - Pretraining on unlabeled data](./chapters/chapter_5.pdf)
+- [Capítulo 6 - Fine-tuning for classification](./chapters/chapter_6.pdf)
+- [Capítulo 7 - Fine-tuning to follow instructions](./chapters/chapter_7.pdf)
+- [Apéndice A](./chapters/chapter_appendix_a_.pdf)
+- [Apéndice B](./chapters/chapter_appendix_b_.pdf)
+- [Apéndice C](./chapters/chapter_appendix_c_.pdf)
+- [Apéndice D](./chapters/chapter_appendix_d_.pdf)
 WIP: Agregar un archivo markdown por cap, permitiendo ver las ideas clave y fragmentos del libro de una manera más accesible.
 
 ---
