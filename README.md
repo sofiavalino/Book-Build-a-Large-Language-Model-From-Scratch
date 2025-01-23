@@ -27,6 +27,7 @@ El contenido del libro también está organizado por capítulos para facilitar l
 - [Apéndice B - References and further reading](./chapters/chapter_appendix_b.pdf)
 - [Apéndice C - Exercise solutions](./chapters/chapter_appendix_c.pdf)
 - [Apéndice D - Adding bells and whistles to the training loop](./chapters/chapter_appendix_d.pdf)
+
 WIP: Agregar un archivo markdown por cap, permitiendo ver las ideas clave y fragmentos del libro de una manera más accesible.
 
 ---
