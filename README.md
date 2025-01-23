@@ -27,6 +27,7 @@ El contenido del libro también está organizado por capítulos para facilitar l
 - [Apéndice B](./chapters/chapter_appendix_b_.pdf)
 - [Apéndice C](./chapters/chapter_appendix_c_.pdf)
 - [Apéndice D](./chapters/chapter_appendix_d_.pdf)
+  
 WIP: Agregar un archivo markdown por cap, permitiendo ver las ideas clave y fragmentos del libro de una manera más accesible.
 
 ---
