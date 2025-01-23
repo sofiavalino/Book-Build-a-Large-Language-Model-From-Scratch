@@ -23,10 +23,10 @@ El contenido del libro también está organizado por capítulos para facilitar l
 - [Capítulo 5 - Pretraining on unlabeled data](./chapters/chapter_5.pdf)
 - [Capítulo 6 - Fine-tuning for classification](./chapters/chapter_6.pdf)
 - [Capítulo 7 - Fine-tuning to follow instructions](./chapters/chapter_7.pdf)
-- [Apéndice A](./chapters/chapter_appendix_a_.pdf)
-- [Apéndice B](./chapters/chapter_appendix_b_.pdf)
-- [Apéndice C](./chapters/chapter_appendix_c_.pdf)
-- [Apéndice D](./chapters/chapter_appendix_d_.pdf)
+- [Apéndice A - Introduction to PyTorch](./chapters/chapter_appendix_a.pdf)
+- [Apéndice B - References and further reading](./chapters/chapter_appendix_b.pdf)
+- [Apéndice C - Exercise solutions](./chapters/chapter_appendix_c.pdf)
+- [Apéndice D - Adding bells and whistles to the training loop](./chapters/chapter_appendix_d.pdf)
 WIP: Agregar un archivo markdown por cap, permitiendo ver las ideas clave y fragmentos del libro de una manera más accesible.
 
 ---
